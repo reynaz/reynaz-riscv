@@ -1,0 +1,19 @@
+date: 2026-10-28T16:14:22+03:00
+cmd: ./bin/gate_sweep 24 10
+omp: NUM_THREADS=4 PLACES=cores PROC_BIND=close
+load_before: 2.91 1.40 0.61 1/202 17866
+users: rDogan 
+governor: performance
+freq_khz: 1800000 1800000 1800000 1800000 1800000 1800000 1800000 1800000 
+temp_mC: 52000 52000 
+mem_avail_MB: 7557
+thp: 
+gcc: gcc (Debian 14.2.0-19) 14.2.0
+top_cpu:
+USER     %CPU COMMAND
+rDogan   11.1 run_exp.sh
+root      0.0 kworker/0:0-events_power_efficient
+rDogan    0.0 sshd-session
+root      0.0 rcu_preempt
+rDogan    0.0 tmux: server
+load_after: 3.28 1.61 0.70 1/202 17892

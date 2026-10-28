@@ -1,0 +1,19 @@
+date: 2026-10-28T15:49:22+03:00
+cmd: ./bin/gate_sweep 24 10
+omp: NUM_THREADS=8 PLACES=cores PROC_BIND=false
+load_before: 1.42 0.37 0.20 1/207 17087
+users: rDogan 
+governor: performance
+freq_khz: 1800000 1800000 1800000 1800000 1800000 1800000 1800000 1800000 
+temp_mC: 53000 53000 
+mem_avail_MB: 7543
+thp: 
+gcc: gcc (Debian 14.2.0-19) 14.2.0
+top_cpu:
+USER     %CPU COMMAND
+rDogan    300 ps
+rDogan   10.0 run_exp.sh
+rDogan    0.1 sshd-session
+root      0.1 kworker/1:1-events_freezable
+rDogan    0.0 sshd-session
+load_after: 3.29 0.87 0.36 1/207 17117

@@ -1,0 +1,9 @@
+level 1 thread 0x3fa4914020 affinity 0-7
+level 1 thread 0x3f9c912100 affinity 0-7
+level 1 thread 0x3f9c111100 affinity 0-7
+level 1 thread 0x3f9b910100 affinity 0-7
+level 1 thread 0x3f9b10f100 affinity 0-7
+level 1 thread 0x3f9a90e100 affinity 0-7
+level 1 thread 0x3f9a10d100 affinity 0-7
+level 1 thread 0x3f9990c100 affinity 0-7
+n=24 qubit, 128.0 MB, 8 thread

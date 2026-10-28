@@ -1,0 +1,3 @@
+level 1 thread 0x3fabe2b020 affinity 0-7
+level 1 thread 0x3fa3e29100 affinity 0-7
+n=24 qubit, 128.0 MB, 2 thread
