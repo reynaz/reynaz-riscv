@@ -1,0 +1,5 @@
+level 1 thread 0x3fa544b020 affinity 0
+level 1 thread 0x3f9d449100 affinity 1
+level 1 thread 0x3f9cc48100 affinity 2
+level 1 thread 0x3f9c447100 affinity 3
+n=24 qubit, 128.0 MB, 4 thread, 10 tekrar
