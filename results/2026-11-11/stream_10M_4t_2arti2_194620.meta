@@ -1,0 +1,19 @@
+date: 2026-11-11T19:46:20+03:00
+cmd: ./bin/stream_10000000
+omp: NUM_THREADS=4 PLACES={0},{1},{4},{5} PROC_BIND=spread
+load_before: 4.16 1.75 0.67 1/201 2921
+users: rDogan 
+governor: performance
+freq_khz: 1800000 1800000 1800000 1800000 1800000 1800000 1800000 1800000 
+temp_mC: 51000 50000 
+mem_avail_MB: 7493
+thp: 
+gcc: gcc (Debian 14.2.0-19) 14.2.0
+top_cpu:
+USER     %CPU COMMAND
+rDogan   12.5 run_exp.sh
+rDogan    0.1 sshd-session
+rDogan    0.1 systemd
+root      0.1 kworker/0:0-events_power_efficient
+rDogan    0.1 tmux: server
+load_after: 4.16 1.75 0.67 1/201 2947
