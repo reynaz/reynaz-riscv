@@ -1,0 +1,9 @@
+komut: gcc -O3 -march=rv64gcv -fopenmp src/gate_sweep.c -o bin/gate_sweep
+gcc (Debian 14.2.0-19) 14.2.0
+nproc: 8
+perf_event_paranoid: 2
+prefetch iceren satir: 0
+vsetvli iceren satir: 2
+omp fonksiyonlari:
+000000000000175e <main._omp_fn.1>:
+00000000000018a8 <main._omp_fn.0>:

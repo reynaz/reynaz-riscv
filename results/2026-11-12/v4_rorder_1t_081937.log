@@ -1,0 +1,3 @@
+n=24 qubit, 128.0 MB, 1 thread, 5 tekrar, siralama=tekrar-once
+ilk dokunma: 32769 minor, 0 major page fault (4 KB sayfayla beklenen ~32768)
+derleyici: gcc 14.2.0

@@ -1,0 +1,11 @@
+level 1 thread 0x3f91516020 affinity 0
+level 1 thread 0x3f8f514100 affinity 1
+level 1 thread 0x3f8ed13100 affinity 2
+level 1 thread 0x3f8e512100 affinity 3
+level 1 thread 0x3f8dd11100 affinity 4
+level 1 thread 0x3f8d510100 affinity 5
+level 1 thread 0x3f8cd0f100 affinity 6
+level 1 thread 0x3f8c50e100 affinity 7
+n=22 qubit, 32.0 MB, 8 thread, 5 tekrar, siralama=qubit-once
+ilk dokunma: 8208 minor, 0 major page fault (4 KB sayfayla beklenen ~8192)
+derleyici: gcc 14.2.0

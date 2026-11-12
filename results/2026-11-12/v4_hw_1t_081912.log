@@ -1,0 +1,11 @@
+n=24 qubit, 128.0 MB, 1 thread, 5 tekrar, siralama=qubit-once
+ilk dokunma: 32770 minor, 0 major page fault (4 KB sayfayla beklenen ~32768)
+derleyici: gcc 14.2.0
+sayac cycles       : acildi
+sayac instr        : acildi
+sayac cache_ref    : No such file or directory
+sayac cache_miss   : No such file or directory
+sayac l1d_rd_acc   : acildi
+sayac l1d_rd_miss  : acildi
+sayac ll_rd_miss   : No such file or directory
+sayac dtlb_rd_miss : acildi
